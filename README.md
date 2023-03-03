@@ -1,5 +1,7 @@
 # textjam.github.io
 
+https://textjam.github.io/
+
 built using [astro](https://astro.build)
 
 ## commands
